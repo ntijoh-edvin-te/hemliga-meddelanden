@@ -1,6 +1,6 @@
 # Hemliga Meddelanden
 
-A tool for hiding secret messages within images.
+#### A tool for hiding secret messages within images.
 
 <img src="https://github.com/ntijoh-edvin-te/hemliga-meddelanden/blob/main/data/input/example_image.jpg?raw=true" style="height: 500px;" />
 
