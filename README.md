@@ -1,6 +1,6 @@
 # Hemliga Meddelanden
 
-A steganography tool for hiding secret messages within images.
+A tool for hiding secret messages within images.
 
 <img src="https://github.com/ntijoh-edvin-te/hemliga-meddelanden/blob/main/data/input/example_image.jpg?raw=true" style="height: 500px;" />
 
@@ -64,4 +64,4 @@ python main.py decode data/output/12345_encoded.png => "Hemliga meddelanden"
 
 ## How it works
 
-This application uses the Least Significant Bit (LSB) steganography technique to hide messages in images. Each bit of the message is stored in the least significant bit of a color channel (R, G, B) of pixels in the image.
+The application uses the Least Significant Bit (LSB) steganography technique to hide messages in images. The bytes of the message (represented by UTF-8 bit sequences) are stored in the least significant bit of the pixel's color channels (R, G, B).
