@@ -1,4 +1,4 @@
-# Hemliga Meddelanden (Secret Messages)
+# Hemliga Meddelanden
 
 A steganography tool for hiding secret messages within images.
 
