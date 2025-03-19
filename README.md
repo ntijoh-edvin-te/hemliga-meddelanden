@@ -10,7 +10,7 @@
 ![original image](https://i.ytimg.com/vi/vobczJG3lhA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp1NLagoXqqlvcNKs1EERqIl2plw)
 
 ##### Image with 499995 characters encoded
-[encoded image](https://i.postimg.cc/YCxTV4ZP/19508-encoded.png)
+![encoded image](https://i.postimg.cc/YCxTV4ZP/19508-encoded.png)
 
 ## Requirements
 
