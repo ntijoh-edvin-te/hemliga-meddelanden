@@ -2,6 +2,8 @@
 
 A steganography tool for hiding secret messages within images.
 
+![logo](https://github.com/ntijoh-edvin-te/hemliga-meddelanden/blob/main/data/input/example_image.jpg?raw=true)
+
 ## Requirements
 
 - Python 3.6+
