@@ -2,7 +2,8 @@
 
 A steganography tool for hiding secret messages within images.
 
-![logo](https://github.com/ntijoh-edvin-te/hemliga-meddelanden/blob/main/data/input/example_image.jpg?raw=true)
+<img href='https://github.com/ntijoh-edvin-te/hemliga-meddelanden/blob/main/data/input/example_image.jpg?raw=tru'e) style="height: 50%">
+</img>
 
 ## Requirements
 
